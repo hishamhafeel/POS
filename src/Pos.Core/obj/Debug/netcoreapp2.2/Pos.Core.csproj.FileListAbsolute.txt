@@ -1,0 +1,17 @@
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\bin\Debug\netcoreapp2.2\Pos.Core.deps.json
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\bin\Debug\netcoreapp2.2\Pos.Core.dll
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\bin\Debug\netcoreapp2.2\Pos.Core.pdb
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.csprojAssemblyReference.cache
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.csproj.CoreCompileInputs.cache
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.AssemblyInfoInputs.cache
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.AssemblyInfo.cs
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.dll
+E:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.pdb
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\bin\Debug\netcoreapp2.2\Pos.Core.deps.json
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\bin\Debug\netcoreapp2.2\Pos.Core.dll
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\bin\Debug\netcoreapp2.2\Pos.Core.pdb
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.csprojAssemblyReference.cache
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.AssemblyInfoInputs.cache
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.AssemblyInfo.cs
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.dll
+D:\Training\Programs\Pos\4.8.0\aspnet-core\src\Pos.Core\obj\Debug\netcoreapp2.2\Pos.Core.pdb
